@@ -8,7 +8,7 @@ Currently, the Javadoc is referenced via its hosted location on IBM's software s
 
 ## Usage
 
-Once installed, Javadoc for the covered classes should automatically appear when using bundle dependencies in a PDE (plug-in) project:
+Once installed, Javadoc for the covered classes should automatically appear when using bundle dependencies in a PDE (plug-in) project or an NSF:
 
 ![Screenshot showing inline Javadoc for the XspLibrary class](img/example.png)
 
