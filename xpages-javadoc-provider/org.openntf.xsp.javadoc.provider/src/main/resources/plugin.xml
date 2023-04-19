@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+	<extension point="org.eclipse.pde.core.javadoc">
+	     <javadoc archive="false" path="https://public.dhe.ibm.com/software/dw/lotus/Domino-Designer/JavaDocs/Designer/9.0.1/">
+	        <plugin id="com.ibm.commons"/>
+	        <plugin id="com.ibm.commons.iloader"/>
+	        <plugin id="com.ibm.commons.jdbc"/>
+	        <plugin id="com.ibm.commons.swt"/>
+	        <plugin id="com.ibm.commons.swt.data"/>
+	        <plugin id="com.ibm.commons.xml"/>
+
+	        <plugin id="com.ibm.designer.domino.ide.resources"/>
+	        <plugin id="com.ibm.designer.domino.scripting"/>
+	        <plugin id="com.ibm.designer.domino.xsp.editor"/>
+
+	        <plugin id="com.ibm.designer.domino.xsp.editor"/>
+			
+	        <plugin id="com.ibm.xsp.core"/>
+	        <plugin id="com.ibm.xsp.designer"/>
+	        <plugin id="com.ibm.xsp.domino"/>
+	     </javadoc> 
+	  </extension>
+</plugin>
